@@ -1,0 +1,11 @@
+# Font configuration (changes require restart)
+# font:
+#  # Normal (roman) font face
+#  normal:
+#  family: JetBrains Mono
+#   style: Regular
+
+# Live config reload (changes require restart)
+live_config_reload: true
+window:
+  opacity: 0.9
